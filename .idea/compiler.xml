@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure-processor/2.3.9.RELEASE/f863a2dac65093fda957e78a468692ed7d5bb3cb/spring-boot-autoconfigure-processor-2.3.9.RELEASE.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/2.3.9.RELEASE/42d65e0feb40af19d50760026d52f9e3856aecbb/spring-boot-configuration-processor-2.3.9.RELEASE.jar" />
+        </processorPath>
+        <module name="dgs-framework-plus.graphql-dgs-protocols-websockets-autoconfigure.main" />
+        <module name="dgs-framework-plus.graphql-dgs-protocols-websockets.main" />
+        <module name="dgs-framework-plus.graphql-dgs-protocols-sse.main" />
+        <module name="dgs-framework-plus.graphql-dgs-protocols-websockets-types.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8" />
+  </component>
+</project>
